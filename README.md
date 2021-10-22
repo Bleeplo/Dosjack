@@ -6,5 +6,6 @@ Future additions is planned but unconfirmed.
 
 **This is mainly built for Linux** 
 
-To run the executible, open up the terminal in the directory and type ./Dosjack
+To run the executible, open up the terminal in the directory and type ./Dosjack1
+
 If running python(3), then python3 script.py
